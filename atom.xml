@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://QuantumBolt123.github.io</id>
     <title>QuantumBolt</title>
-    <updated>2020-07-20T07:48:51.071Z</updated>
+    <updated>2020-07-20T08:06:52.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://QuantumBolt123.github.io"/>
     <link rel="self" href="https://QuantumBolt123.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://QuantumBolt123.github.io/images/avatar.png</logo>
     <icon>https://QuantumBolt123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, QuantumBolt</rights>
+    <entry>
+        <title type="html"><![CDATA[My First Blog]]></title>
+        <id>https://QuantumBolt123.github.io/post/my-first-blog/</id>
+        <link href="https://QuantumBolt123.github.io/post/my-first-blog/">
+        </link>
+        <updated>2020-07-20T07:51:39.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="this-is-my-first-bolg-enjoy">This is my first Bolg, Enjoy!</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://QuantumBolt123.github.io/post/hello-gridea/</id>
